@@ -191,7 +191,10 @@ button {
     color: #E5E7EB;
 }
 
-
+a {
+    text-decoration: none;
+    
+}
 
 .footer {
     justify-content: center;
